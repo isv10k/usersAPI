@@ -1,4 +1,4 @@
-# Simple api for user management
+# Simple RESTful api for user management
 Accepts GET, POST, PATCH, DELETE
 
 POST body example:
