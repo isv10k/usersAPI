@@ -23,3 +23,4 @@ PATCH endpoints:
 	/users/1
 	body exmample:
 	{"name": "Joe"}
+
